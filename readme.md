@@ -7,6 +7,7 @@
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - SpatiaLite is a spatial extension to SQLite, providing vector geodatabase functionality.
 
 ## Articles
 
