@@ -14,6 +14,7 @@
 - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [Scaling SQLite to 4M QPS on a Single Server](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
 - [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [A database for 2022](https://tailscale.com/blog/database-for-2022/) - Tailscale's approach to scale from a single JSON file, using SQLite and Litestream
 
 ## Desktop
 
