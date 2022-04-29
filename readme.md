@@ -17,6 +17,7 @@
 
 ## Desktop
 
+- [SQLiteStudio](https://sqlitestudio.pl/) - Create, edit, browse SQLite databases.
 - [sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 - [Beekeeper Studio](https://www.beekeeperstudio.io) - cross-platform SQL editor and database manager
 - [DB Browser for SQLite](https://sqlitebrowser.org)
