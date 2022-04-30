@@ -49,6 +49,10 @@
 - [modernc.org/sqlite](https://pkg.go.dev/modernc.org/sqlite) - cgo-free port of SQLite
 - [go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite
 
+## Nim
+
+- [std/db_sqlite](https://nim-lang.org/docs/db_sqlite.html) - A higher level SQLite database wrapper
+
 ---
 
 JOIN • [SQLite Discord Server](https://discord.gg/JzzxztXY6z) • [Twitter](https://twitter.com/SQLsite) • 🌻
