@@ -49,6 +49,11 @@
 - [modernc.org/sqlite](https://pkg.go.dev/modernc.org/sqlite) - cgo-free port of SQLite
 - [go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite
 
+## PHP 
+- [dwgebler/doclite](https://github.com/dwgebler/doclite) - A powerful PHP NoSQL document store built on top of SQLite.
+
+
+
 ---
 
 JOIN • [SQLite Discord Server](https://discord.gg/JzzxztXY6z) • [Twitter](https://twitter.com/SQLsite) • 🌻
