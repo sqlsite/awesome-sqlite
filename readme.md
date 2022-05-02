@@ -4,10 +4,10 @@
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite
 - [sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query SQLite via http and remote clients
+- [Datasette](https://datasette.io) - Multi-tool for exploring and publishing data
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine
 - [rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite
 - [SQLite Source Repository](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
-- [sqlite-utils](https://sqlite-utils.datasette.io/) - command line tools and an accompanying Python library for working with SQLite databases
 
 ## Articles
 
@@ -34,8 +34,8 @@
 ## CLI
 
 - [sqlite3 | sqlite3.exe](https://sqlite.org/cli.html) - Official Command Line Shell For SQLite
-- [Datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data
-- [LiteCLI](https://litecli.com/) - A command line interface for SQLite with auto-completion and syntax highlighting
+- [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
+- [sqlite-utils](https://sqlite-utils.datasette.io/) - CLI tool and Python utility functions for manipulating SQLite databases
 
 ## JavaScript
 
