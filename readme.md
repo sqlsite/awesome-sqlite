@@ -34,6 +34,7 @@
 
 - [sqlite3 | sqlite3.exe](https://sqlite.org/cli.html) - Official Command Line Shell For SQLite
 - [Datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data
+- [LiteCLI](https://litecli.com/) - A command line interface for SQLite with auto-completion and syntax highlighting
 
 ## JavaScript
 
