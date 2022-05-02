@@ -7,6 +7,7 @@
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine
 - [rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite
 - [SQLite Source Repository](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
+- [sqlite-utils](https://sqlite-utils.datasette.io/) - command line tools and an accompanying Python library for working with SQLite databases
 
 ## Articles
 
