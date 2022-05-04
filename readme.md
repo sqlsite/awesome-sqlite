@@ -13,6 +13,7 @@
 
 - [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
+- [Writing a SQLite clone from scratch in C](https://cstack.github.io/db_tutorial/)
 - [Scaling SQLite to 4M QPS on a Single Server](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
 - [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 
