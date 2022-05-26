@@ -28,6 +28,7 @@
 
 ## Web
 
+- [SQLite fiddle](https://sqlite.org/fiddle/) - a WASM-compiled copy of a recent SQLite build in a sandbox
 - [sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [sqlite-viewer](https://sqliteviewer.app) - Web-based SQLite Explorer
 - [sqlite-viewer (2)](https://inloop.github.io/sqlite-viewer/) - View SQLite file online
