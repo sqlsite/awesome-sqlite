@@ -44,7 +44,7 @@
 
 - [sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web
 - [absurd-sql](https://github.com/jlongster/absurd-sql) - SQLite in your IndexedDB (a backend for sql.js)
-- [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js
+- [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js
 - [remix/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, auth, testing, linting, formatting
 
 ## Go
@@ -56,4 +56,4 @@
 
 ---
 
-JOIN • [SQLite Discord Server](https://discord.gg/JzzxztXY6z) • [Twitter](https://twitter.com/SQLsite) • 🌻
+[Join SQLite Discord Server](https://discord.gg/JzzxztXY6z) • [Twitter](https://twitter.com/SQLsite)
