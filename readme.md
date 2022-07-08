@@ -50,6 +50,7 @@
 ## Go
 
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql (requires gcc)
+- [pocketbase](https://github.com/pocketbase/pocketbase) - Go/SQLite backend with realtime subscriptions
 - [crawshaw/sqlite](https://github.com/crawshaw/sqlite) - Low-level Go interface to SQLite
 - [modernc.org/sqlite](https://pkg.go.dev/modernc.org/sqlite) - cgo-free port of SQLite
 - [go-dqlite](https://github.com/canonical/go-dqlite) - Go bindings for libdqlite
