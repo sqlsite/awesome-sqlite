@@ -25,6 +25,7 @@
 - [Beekeeper Studio](https://www.beekeeperstudio.io) - cross-platform SQL editor and database manager
 - [DB Browser for SQLite](https://sqlitebrowser.org)
 - [SQLite Viewer for VSCode](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
+- [SQLite Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) - Visual Studio extension
 
 ## Web
 
