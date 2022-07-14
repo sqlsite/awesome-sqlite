@@ -58,4 +58,4 @@
 
 ---
 
-[Join SQLite Discord Server](https://discord.gg/JzzxztXY6z) • [Twitter](https://twitter.com/SQLsite)
+SQLite • keep it simple • [Twitter](https://twitter.com/SQLsite)
