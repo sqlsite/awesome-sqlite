@@ -17,6 +17,7 @@
 - [Scaling SQLite to 4M QPS on a Single Server](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
 - [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [D1 announcement - Cloudflare's newest SQL database, running on SQLite](https://blog.cloudflare.com/introducing-d1/)
+- [Build your own SQLite, in any language](https://app.codecrafters.io/tracks) — Master SQLite internals by rebuilding it 
 
 ## Desktop
 
