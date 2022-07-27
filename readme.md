@@ -6,6 +6,7 @@
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query SQLite via http and remote clients
 - [Datasette](https://datasette.io) - Multi-tool for exploring and publishing data
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine
+- [litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases
 - [rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite
 - [SQLite Source Repository](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 
@@ -20,12 +21,12 @@
 
 ## Desktop
 
+- [SQLite Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) - Visual Studio extension
 - [sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 - [SQLiteStudio](https://sqlitestudio.pl) - Create, edit, browse SQLite databases
 - [Beekeeper Studio](https://www.beekeeperstudio.io) - cross-platform SQL editor and database manager
 - [DB Browser for SQLite](https://sqlitebrowser.org)
 - [SQLite Viewer for VSCode](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
-- [SQLite Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) - Visual Studio extension
 
 ## Web
 
